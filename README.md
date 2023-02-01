@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [www.mehmcodes.io](www.mehmcodes.io)
 
-- 📝 I regularly write articles on [mehm](mehm)
 
 - 💬 Ask me about **Mern,Tauri,Flutter**
 
